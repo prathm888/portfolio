@@ -505,6 +505,10 @@ body::selection {
 
 .project-card-2 {
   background: linear-gradient(225deg, #2c2940, #5a4073);
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:center;
 }
 
 .project-card-3 {
